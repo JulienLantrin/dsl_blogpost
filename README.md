@@ -1,3 +1,5 @@
+# Les DSL (Domain Specific Languages), l’élégance de l’abstraction
+
 Ce blogpost a pour rôle d’explorez le rôle essentiel des Domain Specific Languages (DSLs) à travers l’implémentation d'un diagramme à bandes. Cet article établira des parallèles avec la bibliothèque [recharts](https://recharts.org/) pour illustrer comment les DSLs peuvent apporter une valeur significative au développement Front-End. Découvrez comment cette abstraction peut révéler des perspectives intéressantes.
 
 # Qu’est-ce qu’un DSL ?
